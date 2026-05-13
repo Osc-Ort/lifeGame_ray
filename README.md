@@ -1,4 +1,4 @@
-*lifeGame_ray*
+# lifeGame_ray
 Simple simulador del John Conway's Game of Life hecho en Python con raylib.
 
 Espacio: parar la simulación.
