@@ -1,7 +1,7 @@
 [project]
 name = "lifegame-ray"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple life game"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
