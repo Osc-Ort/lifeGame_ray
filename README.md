@@ -11,5 +11,5 @@ Q: Reinicio aletorio
 
 Para ejecutar con uv, clonar el repositorio y ejecutar:
 ```bash
-    uv sync && uv run main.py
+uv sync && uv run main.py
 ```
